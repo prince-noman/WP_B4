@@ -1,0 +1,10 @@
+1. Code Editor (VS Code/Sublime/Atom/Brackets/PHPStorm)
+2. Browser (Chrome, Firefox, Edge, Opera, Brave)
+3. Node JS (JavaScript Run Time)
+4. Xampp/Laragon/Ampps/Wamp/Mamp (PHP, MySQL, Apache/NGnix)
+5. Composer
+6. Git Scm
+
+How to download and install [tool-name]
+How to download and install vs code
+How to download and install vs code in bangla
